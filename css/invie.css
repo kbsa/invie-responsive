@@ -415,6 +415,10 @@ input:focus, textarea:focus{
 
 	}
 
+	.formulario label {
+		font-size: 20px;
+	}
+
 	.intereses label {
 		display: block;
 		font-size: 16px;
